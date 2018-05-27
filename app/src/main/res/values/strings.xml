@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">VkClient</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_sign_in">Sign In</string>
+    <string name="button_logout">Logout</string>
+    <string name="title_activity_auth">Auth</string>
+    <string name="label_auth_error">Auth error</string>
+    <string name="label_location_needed">Location access is needed to share your location</string>
+    <string name="label_audio_recording">recording</string>
+    <string name="snackbar_audio_permission_required">Record audio permission is required</string>
+    <string name="label_processing">processing</string>
+    <string name="label_uploading">uploading</string>
+
+    <string name="label_error_audio_recording">Audio recording error</string>
+    <string name="label_error_uploading">Uploading error</string>
+    <string name="label_upload_success">Uploaded successfully</string>
+
+    <string name="label_error_camera">Camera error</string>
+</resources>
